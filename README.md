@@ -11,3 +11,9 @@ Useful handy links to websites, libraries
 ## Convert JSON into types
 
   - https://app.quicktype.io/
+
+## CSS animation liabraries
+
+  - https://animista.net/play/background/ken-burns/kenburns-bottom-left
+  - https://animate.style/#documentation
+  - https://freefrontend.com/css-animation-examples/
