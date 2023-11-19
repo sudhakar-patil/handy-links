@@ -36,3 +36,6 @@ Useful handy links to websites, libraries
   - https://www.minimamente.com/project/magic/
   - http://all-animation.github.io/
   - http://ianlunn.github.io/Hover/
+
+## Cheat Sheets
+  - https://cheatography.com/tag/git/
